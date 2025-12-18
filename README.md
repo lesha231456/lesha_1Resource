@@ -1,6 +1,7 @@
 # lesha_1Resource
 
-[![l](https://cdn.modrinth.com/data/cached_images/320ae22d8c2813ed2471448050a693a3b5a88aeb.png)](https://discord.com/invite/YeYxsWFybN)
+| [![дс](https://cdn.modrinth.com/data/cached_images/8bcf7ad411d848088f96b0f7f559e3906c2a4dfc.png)](https://discord.com/invite/YeYxsWFybN) | [![мд](https://cdn.modrinth.com/data/cached_images/942bcc29cce40415c2fe7faecb6a029d78c40f9e.png)](https://modrinth.com/user/lesha_1) | [![гд](https://cdn.modrinth.com/data/cached_images/f5b2e575a73b1a729a0be9541cf3497764356738.png)](https://github.com/lesha231456) | [![сн](https://cdn.modrinth.com/data/cached_images/2aedb989a7a0e75e223509381cf9778997b3ea89.png)](https://ru.namemc.com/profile/lesha_1.1) |
+|---------------------|:---------------------:|:---------------------:|---------------------:|
 # English:
 Contains a guide to the game from the instruments of the tables.
 - The resource pack is only suitable for the interface size from 1 to 3.
